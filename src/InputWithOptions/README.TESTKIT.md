@@ -4,7 +4,7 @@
 
 ## InputWithOptions TestKit API
 
-### The InputWithOptions TestKit is exposing the [inputDriver](https://wix.github.io/wix-style-react/?selectedKind=Core&selectedStory=Input&full=0&down=0&left=1&panelRight=0) and [dropdownLayoutDriver](https://wix.github.io/wix-style-react/?selectedKind=Core&selectedStory=DropdownLayout&full=0&down=0&left=1&panelRight=0) and adds its own driver, see examples below
+### The InputWithOptions TestKit is exposing the [inputDriver](https://wix-wix-style-react.surge.sh/?selectedKind=Core&selectedStory=Input&full=0&down=0&left=1&panelRight=0) and [dropdownLayoutDriver](https://wix-wix-style-react.surge.sh/?selectedKind=Core&selectedStory=DropdownLayout&full=0&down=0&left=1&panelRight=0) and adds its own driver, see examples below
  
 #### Driver methods:
 

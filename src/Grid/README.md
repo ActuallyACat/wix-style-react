@@ -4,7 +4,7 @@ A grid container is based on rows with a 12 column layout.
 
 For full documentation read [Bootstrap docs](http://getbootstrap.com/css/#grid)
 
-For Card API [Card](https://wix.github.io/wix-style-react/?selectedKind=Common&selectedStory=Card&full=0&addons=0&stories=1&panelRight=0)
+For Card API [Card](https://wix-wix-style-react.surge.sh/?selectedKind=Common&selectedStory=Card&full=0&addons=0&stories=1&panelRight=0)
 
 ## wix-style-react additions to bootstrap
 

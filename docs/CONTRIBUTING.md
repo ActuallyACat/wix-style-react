@@ -29,7 +29,7 @@ open localhost:6006
 
 * One component per file
 * All assets in `src/assets` folder
-* e2e & unit test as well as enzyme & protractor testkits. See [Testing](https://wix.github.io/wix-style-react/?selectedKind=Introduction&selectedStory=Testing&full=0&down=0&left=1&panelRight=0) for details.
+* e2e & unit test as well as enzyme & protractor testkits. See [Testing](https://wix-wix-style-react.surge.sh/?selectedKind=Introduction&selectedStory=Testing&full=0&down=0&left=1&panelRight=0) for details.
 * Prefer [controlled components](https://goshakkk.name/controlled-vs-uncontrolled-inputs-react/)
 * support `rtl` boolean prop to support right-to-left languages
 
@@ -57,8 +57,8 @@ open localhost:6006
     It's important since in a good case we are able to automatically parse the source and create API docs for your component.
 
 * design according to [Zeplin](https://app.zeplin.io/project/5864e02695b5754a69f56150) design created by UX guild.
-* follow [Documenting Components](https://wix.github.io/wix-style-react/?selectedKind=Introduction&selectedStory=Documenting%20components&full=0&down=0&left=1&panelRight=0) to configure and generate docs automatically.
-* add unit and e2e tests as well as testkits for enzyme and protractor. See [Testing](https://wix.github.io/wix-style-react/?selectedKind=Introduction&selectedStory=Testing&full=0&down=0&left=1&panelRight=0) for details.
+* follow [Documenting Components](https://wix-wix-style-react.surge.sh/?selectedKind=Introduction&selectedStory=Documenting%20components&full=0&down=0&left=1&panelRight=0) to configure and generate docs automatically.
+* add unit and e2e tests as well as testkits for enzyme and protractor. See [Testing](https://wix-wix-style-react.surge.sh/?selectedKind=Introduction&selectedStory=Testing&full=0&down=0&left=1&panelRight=0) for details.
 * export your `testkitFactory` from the following files:
     * `wix-style-react/testkit/index.js`
     * `wix-style-react/testkit/enzyme.js`

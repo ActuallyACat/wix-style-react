@@ -7,12 +7,12 @@
 | method                   | arguments | returned value                           | description                              |
 | ------------------------ | --------- | ---------------------------------------- | ---------------------------------------- |
 | exists                   | -         | boolean                                  | fulfilled if element in the DOM          |
-| mainLoaderDriver         | -         | [LoaderDriver](https://wix.github.io/wix-style-react/?selectedKind=Core&selectedStory=Loader&full=0&down=0&left=1&panelRight=0) | Main loader shown while the initial items are loading/being filtered |
-| nextPageLoaderDriver     | -         | [LoaderDriver](https://wix.github.io/wix-style-react/?selectedKind=Core&selectedStory=Loader&full=0&down=0&left=1&panelRight=0) | Loader shown at the bottom of the list while loading the next page |
-| cancelButtonDriver       | -         | [ButtonDriver](https://wix.github.io/wix-style-react/?selectedKind=Backoffice&selectedStory=Button&full=0&down=0&left=1&panelRight=0) | "Cancel" button                          |
-| okButtonDriver           | -         | [ButtonDriver](https://wix.github.io/wix-style-react/?selectedKind=Backoffice&selectedStory=Button&full=0&down=0&left=1&panelRight=0) | "OK" button                              |
-| searchDriver             | -         | [SearchDriver](https://wix.github.io/wix-style-react/?selectedKind=3.%20Inputs&selectedStory=3.9%20Search&full=0&down=0&left=1&panelRight=0) | Search input                             |
-| subtitleTextDriver       | -         | [TextDriver](https://wix.github.io/wix-style-react/?selectedKind=Core&selectedStory=Text&full=0&down=0&left=1&panelRight=0) | Subtitle of the modal                    |
+| mainLoaderDriver         | -         | [LoaderDriver](https://wix-wix-style-react.surge.sh/?selectedKind=Core&selectedStory=Loader&full=0&down=0&left=1&panelRight=0) | Main loader shown while the initial items are loading/being filtered |
+| nextPageLoaderDriver     | -         | [LoaderDriver](https://wix-wix-style-react.surge.sh/?selectedKind=Core&selectedStory=Loader&full=0&down=0&left=1&panelRight=0) | Loader shown at the bottom of the list while loading the next page |
+| cancelButtonDriver       | -         | [ButtonDriver](https://wix-wix-style-react.surge.sh/?selectedKind=Backoffice&selectedStory=Button&full=0&down=0&left=1&panelRight=0) | "Cancel" button                          |
+| okButtonDriver           | -         | [ButtonDriver](https://wix-wix-style-react.surge.sh/?selectedKind=Backoffice&selectedStory=Button&full=0&down=0&left=1&panelRight=0) | "OK" button                              |
+| searchDriver             | -         | [SearchDriver](https://wix-wix-style-react.surge.sh/?selectedKind=3.%20Inputs&selectedStory=3.9%20Search&full=0&down=0&left=1&panelRight=0) | Search input                             |
+| subtitleTextDriver       | -         | [TextDriver](https://wix-wix-style-react.surge.sh/?selectedKind=Core&selectedStory=Text&full=0&down=0&left=1&panelRight=0) | Subtitle of the modal                    |
 | getTitle                 | -         | string                                   | Title of the modal                       |
 | clickOnClose             | -         | -                                        | Click on "X" button of modal             |
 | showsEmptyState          | -         | boolean                                  | Whether the "emptyState" element is shown |
@@ -21,7 +21,7 @@
 | getNoResultsFoundState   | -         | Element                                  | Get the "noResultsFoundState" element    |
 | listExists               | -         | boolean                                  | If the list of items exists at all       |
 | numberOfItemsInList      | -         | number                                   | Number of rows currently rendered        |
-| getSelectorDriverAt      | number    | [SelectorDriver](https://wix.github.io/wix-style-react/?selectedKind=Core&selectedStory=Selector&full=0&down=0&left=1&panelRight=0) | Return the instance of selectorDriver for the row at the passed index |
+| getSelectorDriverAt      | number    | [SelectorDriver](https://wix-wix-style-react.surge.sh/?selectedKind=Core&selectedStory=Selector&full=0&down=0&left=1&panelRight=0) | Return the instance of selectorDriver for the row at the passed index |
 | scrollDown               | -         | -                                        | Triggers "scroll" event on the list, needed to trigger the infinite scroll |
 
 ## Protractor TestKit API
@@ -29,12 +29,12 @@
 | method                 | arguments | returned value                           | description                              |
 | ---------------------- | --------- | ---------------------------------------- | ---------------------------------------- |
 | element                | -         | element                                  | returns the driver element               |
-| mainLoaderDriver       | -         | [LoaderDriver](https://wix.github.io/wix-style-react/?selectedKind=Core&selectedStory=Loader&full=0&down=0&left=1&panelRight=0) | Main loader shown while the initial items are loading |
-| nextPageLoaderDriver   | -         | [LoaderDriver](https://wix.github.io/wix-style-react/?selectedKind=Core&selectedStory=Loader&full=0&down=0&left=1&panelRight=0) | Loader shown at the bottom of the list while loading more items |
-| cancelButtonDriver     | -         | [ButtonDriver](https://wix.github.io/wix-style-react/?selectedKind=Backoffice&selectedStory=Button&full=0&down=0&left=1&panelRight=0) | "Cancel" button                          |
-| okButtonDriver         | -         | [ButtonDriver](https://wix.github.io/wix-style-react/?selectedKind=Backoffice&selectedStory=Button&full=0&down=0&left=1&panelRight=0) | "OK" button                              |
-| searchDriver           | -         | [SearchDriver](https://wix.github.io/wix-style-react/?selectedKind=3.%20Inputs&selectedStory=3.9%20Search&full=0&down=0&left=1&panelRight=0) | Search input                             |
-| subtitleTextDriver     | -         | [TextDriver](https://wix.github.io/wix-style-react/?selectedKind=Core&selectedStory=Text&full=0&down=0&left=1&panelRight=0) | Subtitle of the modal                    |
+| mainLoaderDriver       | -         | [LoaderDriver](https://wix-wix-style-react.surge.sh/?selectedKind=Core&selectedStory=Loader&full=0&down=0&left=1&panelRight=0) | Main loader shown while the initial items are loading |
+| nextPageLoaderDriver   | -         | [LoaderDriver](https://wix-wix-style-react.surge.sh/?selectedKind=Core&selectedStory=Loader&full=0&down=0&left=1&panelRight=0) | Loader shown at the bottom of the list while loading more items |
+| cancelButtonDriver     | -         | [ButtonDriver](https://wix-wix-style-react.surge.sh/?selectedKind=Backoffice&selectedStory=Button&full=0&down=0&left=1&panelRight=0) | "Cancel" button                          |
+| okButtonDriver         | -         | [ButtonDriver](https://wix-wix-style-react.surge.sh/?selectedKind=Backoffice&selectedStory=Button&full=0&down=0&left=1&panelRight=0) | "OK" button                              |
+| searchDriver           | -         | [SearchDriver](https://wix-wix-style-react.surge.sh/?selectedKind=3.%20Inputs&selectedStory=3.9%20Search&full=0&down=0&left=1&panelRight=0) | Search input                             |
+| subtitleTextDriver     | -         | [TextDriver](https://wix-wix-style-react.surge.sh/?selectedKind=Core&selectedStory=Text&full=0&down=0&left=1&panelRight=0) | Subtitle of the modal                    |
 | getTitle               | -         | string                                   | Title of the modal                       |
 | clickOnClose           | -         | -                                        | Click on "X" button of modal             |
 | getEmptyState          | -         | Element                                  | Get the "emptyState" element             |

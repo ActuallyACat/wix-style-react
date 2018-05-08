@@ -7,9 +7,9 @@
 ### Exposed Drivers
 The `<MultiSelect/>` TestKit is exposing the following drivers:
 * Its own driver (see examples below).
-* [inputDriver](https://wix.github.io/wix-style-react/?selectedKind=Core&selectedStory=Input&full=0&down=0&left=1&panelRight=0)
-* [dropdownLayoutDriver](https://wix.github.io/wix-style-react/?selectedKind=Core&selectedStory=DropdownLayout&full=0&down=0&left=1&panelRight=0)
-* [tagDriver](https://wix.github.io/wix-style-react/?selectedKind=Core&selectedStory=Tag&full=0&down=0&left=1&panelRight=0) using the `getTagDriverByTagId(id)` function
+* [inputDriver](https://wix-wix-style-react.surge.sh/?selectedKind=Core&selectedStory=Input&full=0&down=0&left=1&panelRight=0)
+* [dropdownLayoutDriver](https://wix-wix-style-react.surge.sh/?selectedKind=Core&selectedStory=DropdownLayout&full=0&down=0&left=1&panelRight=0)
+* [tagDriver](https://wix-wix-style-react.surge.sh/?selectedKind=Core&selectedStory=Tag&full=0&down=0&left=1&panelRight=0) using the `getTagDriverByTagId(id)` function
 
 
 ### Enzyme / ReactTestUtils

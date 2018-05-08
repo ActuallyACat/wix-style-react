@@ -8,7 +8,7 @@
 | -------------------------- | --------- | ---------------------------------------- | ---------------------------------------- |
 | getInput                   | -         | element                                  | returns checkbox input element           |
 | getLabel                   | -         | element                                  | returns checkbox label element           |
-| getLabelDriver             | -         | instance of [label driver](https://wix.github.io/wix-style-react/?selectedKind=Core&selectedStory=Label&full=0&down=0&left=1&panelRight=0) | label testkit instantiated with checkbox's inner label |
+| getLabelDriver             | -         | instance of [label driver](https://wix-wix-style-react.surge.sh/?selectedKind=Core&selectedStory=Label&full=0&down=0&left=1&panelRight=0) | label testkit instantiated with checkbox's inner label |
 | isChecked                  | -         | bool                                     | fulfilled if element has class '.checked' |
 | isDisabled                 | -         | bool                                     | fulfilled if element has class '.disabled' |
 | isIndeterminate            | -         | bool                                     | fulfilled if element has class '.indeterminate' |

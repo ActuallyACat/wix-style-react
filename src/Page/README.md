@@ -34,7 +34,7 @@ flex-flow: column;
 min-height: 0;
 ```
 
-A live example is available [here](https://wix.github.io/wix-style-react/?selectedKind=2.%20Layout&selectedStory=2.6%20%2B%20Page%20Example).
+A live example is available [here](https://wix-wix-style-react.surge.sh/?selectedKind=2.%20Layout&selectedStory=2.6%20%2B%20Page%20Example).
 
 ## Gradient
 

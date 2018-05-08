@@ -6,7 +6,7 @@
 
 `wix-style-react` is a collection of [React](https://facebook.github.io/react/) components that conform to Wix Style created by Wix UX guild.
 
-#### [Demo](https://wix.github.io/wix-style-react) | [Source](https://github.com/wix/wix-style-react)
+#### [Demo](https://wix-wix-style-react.surge.sh/) | [Source](https://github.com/wix/wix-style-react)
 
 ## Setup
 
@@ -39,7 +39,7 @@ const MyComponent = () =>
 
 ## Tips
 
-* Use [Yoshi](https://github.com/wix/yoshi) as build tool to avoid configuration. Otherwise follow [webpack setup instructions here](https://wix.github.io/wix-style-react/?selectedKind=Introduction&selectedStory=Usage%20Without%20Yoshi&full=0&down=0&left=1&panelRight=0)
+* Use [Yoshi](https://github.com/wix/yoshi) as build tool to avoid configuration. Otherwise follow [webpack setup instructions here](https://wix-wix-style-react.surge.sh/?selectedKind=Introduction&selectedStory=Usage%20Without%20Yoshi&full=0&down=0&left=1&panelRight=0)
 * Enable font smoothing with browser specific css properties, for example:
     ```css
     html {
@@ -47,13 +47,13 @@ const MyComponent = () =>
       -moz-osx-font-smoothing: grayscale;
     }
     ```
-* Use [demo pages](https://wix.github.io/wix-style-react) to find all available components with examples.
+* Use [demo pages](https://wix-wix-style-react.surge.sh/) to find all available components with examples.
 
 ## Contributing
-Please refer to the [Contribution page](https://wix.github.io/wix-style-react/?selectedKind=Introduction&selectedStory=Contribution&full=0&down=0&left=1&panelRight=0)
+Please refer to the [Contribution page](https://wix-wix-style-react.surge.sh/?selectedKind=Introduction&selectedStory=Contribution&full=0&down=0&left=1&panelRight=0)
 
 ## Tests
-Please refer to the [Testing page](https://wix.github.io/wix-style-react/?selectedKind=Introduction&selectedStory=Testing&full=0&down=0&left=1&panelRight=0)
+Please refer to the [Testing page](https://wix-wix-style-react.surge.sh/?selectedKind=Introduction&selectedStory=Testing&full=0&down=0&left=1&panelRight=0)
 
 ## License
 This project is offered under [MIT License](https://github.com/wix/wix-style-react/blob/master/LICENSE).

@@ -23,7 +23,7 @@ datePickerPolyfills(window, global);
 
 ### inputDriver
 
-[See Input component driver documentation](https://wix.github.io/wix-style-react/?selectedKind=Core&selectedStory=Input).
+[See Input component driver documentation](https://wix-wix-style-react.surge.sh/?selectedKind=Core&selectedStory=Input).
 
 ### calendarDriver
 

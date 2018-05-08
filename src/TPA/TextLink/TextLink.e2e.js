@@ -4,7 +4,7 @@
 // describe('TPA TextLink', () => {
 //   const storyUrl = getStoryUrl('TPA', 'TextLink');
 //   const linkText = 'Click me';
-//   const expectedUrlAfterClick = 'https://wix.github.io/wix-style-react/?selectedKind=Introduction&selectedStory=Getting%20started&full=0&down=0&left=1&panelRight=0';
+//   const expectedUrlAfterClick = 'https://wix-wix-style-react.surge.sh/?selectedKind=Introduction&selectedStory=Getting%20started&full=0&down=0&left=1&panelRight=0';
 
 //   eyes.it('should nav to new address after click', () => {
 //     const dataHook = 'story-text-link';

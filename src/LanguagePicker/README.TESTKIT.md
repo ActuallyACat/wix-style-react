@@ -4,7 +4,7 @@
 
 ## LanguagePicker TestKit API
 
-### The LanguagePicker TestKit is exposing the [IconWithOptions](https://wix.github.io/wix-style-react/?selectedKind=4.%20Selection&selectedStory=4.5%20IconWithOptions&full=0&down=0&left=1&panelRight=0&downPanel=kadirahq%2Fstorybook-addon-actions%2Factions-panel)
+### The LanguagePicker TestKit is exposing the [IconWithOptions](https://wix-wix-style-react.surge.sh/?selectedKind=4.%20Selection&selectedStory=4.5%20IconWithOptions&full=0&down=0&left=1&panelRight=0&downPanel=kadirahq%2Fstorybook-addon-actions%2Factions-panel)
 
 ## Usage Example
 

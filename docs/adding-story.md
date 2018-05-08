@@ -1,6 +1,6 @@
 # Documenting Components
 
-All components exported by `wix-style-react` are documented and displayed on our [github page](wix.github.io/wix-style-react/) (you probably are looking at it now).
+All components exported by `wix-style-react` are documented and displayed on our [github page](wix-wix-style-react.surge.sh/) (you probably are looking at it now).
 
 It is rendered with [Storybook](https://storybook.js.org).
 
