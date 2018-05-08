@@ -20,10 +20,10 @@
     "test:e2e-only": "NODE_ENV=production yoshi test --protractor",
     "build": "npm run lint && svg2react-icon && yoshi build && build-storybook && npm run export-components",
     "storybook": "start-storybook -p 6006",
-    "postpublish": "gh-pages-auto-release --dist=storybook-static && teamcity-surge-autorelease",
+    "postpublish": "teamcity-surge-autorelease --dist=storybook-static",
     "export-components": "import-path --path src",
     "lint": "yoshi lint",
-    "pr-release": "teamcity-surge-autorelease"
+    "pr-release": "teamcity-surge-autorelease --dist=storybook-static"
   },
   "yoshi": {
     "features": {
